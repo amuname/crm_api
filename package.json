@@ -1,0 +1,17 @@
+{
+  "name": "y-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "amuname",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
